@@ -1,4 +1,6 @@
 <div align="center">
+  <img src="banner.png" alt="PixScout AI Banner" width="100%">
+</p>
 
 # 🚀 PixScout AI
 
