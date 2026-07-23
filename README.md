@@ -1,75 +1,118 @@
-# 🔍 PixScout AI
+<div align="center">
 
-> AI-Powered Offline Visual Search & Secure Document Assistant
+# 🚀 PixScout AI
 
-PixScout AI is an intelligent Android application that helps users instantly find images and documents using Artificial Intelligence, OCR, Computer Vision, and Voice Search.
+### AI-Powered Offline Visual Search & Secure Document Assistant
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/TensorFlow-F57C00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+
+</div>
 
 ---
 
-## ✨ Features
+# 📖 About Project
 
-- 🔍 AI-Powered Image Search
-- 📄 OCR Text Extraction
-- 🎤 Voice Search
-- 🔒 Secure Document Vault
-- 📱 Offline Processing
-- ⚡ Fast Local Search
-- 🤖 Computer Vision
-- 🔐 Biometric Authentication
+PixScout AI is an intelligent Android application that allows users to search images and documents instantly using Artificial Intelligence, Computer Vision, OCR and Voice Search.
+
+Unlike traditional gallery applications, PixScout AI understands image content and retrieves files intelligently while keeping all personal data secure through offline processing.
 
 ---
 
-## 🛠 Technology Stack
+# ✨ Features
+
+✅ AI Image Search
+
+✅ OCR Text Extraction
+
+✅ Voice Search
+
+✅ Offline Processing
+
+✅ Secure Document Vault
+
+✅ Fast Local Search
+
+✅ Computer Vision
+
+✅ Biometric Authentication
+
+---
+
+# 🛠 Tech Stack
 
 | Technology | Purpose |
 |------------|---------|
-| Flutter | Mobile App |
-| FastAPI | Backend API |
-| Python | AI Processing |
+| Flutter | Android App |
+| FastAPI | Backend |
+| Python | AI |
 | OpenCV | Image Processing |
-| TensorFlow Lite | On-device AI |
-| Tesseract OCR | Text Recognition |
-| SQLite | Offline Database |
+| TensorFlow Lite | AI Model |
+| Tesseract OCR | OCR |
+| SQLite | Offline Storage |
 
 ---
 
-## 📂 Project Structure
+# 📂 Project Structure
 
-```
-PixScout-AI/
+```text
+PixScout-AI
 │
-├── frontend/
-├── backend/
-├── ai/
-├── database/
-├── assets/
-├── docs/
-└── README.md
+├── frontend
+├── backend
+├── ai
+├── assets
+├── docs
+└── database
 ```
 
 ---
 
-## 🚀 Future Scope
+# 🎯 Objectives
 
-- Cloud Synchronization
-- Multi-language Search
+• Intelligent Offline Search
+
+• AI Powered Recognition
+
+• OCR Support
+
+• Voice Search
+
+• Privacy Protection
+
+• Secure Storage
+
+---
+
+# 🚀 Future Scope
+
+- Cloud Sync
 - Face Recognition
-- Smart Gallery Assistant
 - AI Chat Assistant
-- Cross-device Support
+- Smart Gallery
+- Multilingual Search
 
 ---
 
-## 👩‍💻 Author
+# 👩‍💻 Developer
 
-**Anubha Saini**
+## Anubha Saini
 
-B.Tech Artificial Intelligence & Machine Learning
+B.Tech AI & ML
 
-Career Point University, Kota
+Career Point University
+
+India 🇮🇳
 
 ---
 
-## 📜 License
-
-MIT License
+# ⭐ If you like this project don't forget to Star the Repository.
